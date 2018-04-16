@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication", "SampleApplication\SampleApplication.csproj", "{62D97A32-63BC-45CC-A205-77B02D25898A}"
+	GlobalSection(HgVSProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Okmer.Extensions", "Com.Okmer.Extensions\Com.Okmer.Extensions.csproj", "{C9727C44-8ECD-4F66-BAD7-0F8E998D80BF}"
+	GlobalSection(HgVSProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Okmer.ExtensionsTests", "Com.Okmer.ExtensionsTests\Com.Okmer.ExtensionsTests.csproj", "{D9D8909F-6C69-40AC-B2B1-8175CD8662DC}"
+	GlobalSection(HgVSProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D97A32-63BC-45CC-A205-77B02D25898A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D97A32-63BC-45CC-A205-77B02D25898A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D97A32-63BC-45CC-A205-77B02D25898A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D97A32-63BC-45CC-A205-77B02D25898A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9727C44-8ECD-4F66-BAD7-0F8E998D80BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9727C44-8ECD-4F66-BAD7-0F8E998D80BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9727C44-8ECD-4F66-BAD7-0F8E998D80BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9727C44-8ECD-4F66-BAD7-0F8E998D80BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D8909F-6C69-40AC-B2B1-8175CD8662DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D8909F-6C69-40AC-B2B1-8175CD8662DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D8909F-6C69-40AC-B2B1-8175CD8662DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D8909F-6C69-40AC-B2B1-8175CD8662DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(HgVSProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+EndGlobal
